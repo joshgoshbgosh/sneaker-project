@@ -1,10 +1,12 @@
 
+header {
+  display: inline-block;
+}
 
 .smallshoephoto {
   float: left;
   padding: 10px;
-  height: 25px;
-  width: 50px;
+  width: 100px;
 }
 
 a {
@@ -15,7 +17,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 li {
@@ -24,5 +26,32 @@ li {
 
 .nav1 {
   float: left;
-  padding-top: 15px;
+  padding-top: 30px;
+}
+
+.nav2 {
+  float: right;
+  padding-top: 26px;
+}
+
+footer {
+  display:flex;
+  justify-content: flex-end;
+}
+
+.footershoe {
+  float: left;
+  padding-top:10px;
+  width: 100px;
+}
+
+.footernav1 {
+  float: left;
+  padding-top: 30px;
+  padding-left:10px
+}
+
+.footnav2 {
+  float: right;
+  padding-top: 30px;
 }
