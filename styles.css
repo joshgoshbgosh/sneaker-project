@@ -1,0 +1,28 @@
+
+
+.smallshoephoto {
+  float: left;
+  padding: 10px;
+  height: 25px;
+  width: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+li {
+  display: inline;
+}
+
+.nav1 {
+  float: left;
+  padding-top: 15px;
+}
