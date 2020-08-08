@@ -1,37 +1,49 @@
 
 header {
-  display: inline-block;
+  display:flex;
+  justify-content:space-between;
+
 }
 
 .smallshoephoto {
-  float: left;
+display:inline-block;
   padding: 10px;
   width: 100px;
 }
 
 a {
+display: inline;
+;
   text-decoration: none;
+  padding: 0px;
+  margin: 10px;
 }
 
+
 ul {
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
   font-size: 17px;
 }
 
+
+
+}
 li {
   display: inline;
+  padding-left: 8px;
+  padding-top: 10px;
 }
 
 .nav1 {
-  float: left;
-  padding-top: 30px;
+
+  padding-top: 5px;
 }
 
 .nav2 {
-  float: right;
-  padding-top: 26px;
+    padding-top: 26px;
 }
 
 footer {
