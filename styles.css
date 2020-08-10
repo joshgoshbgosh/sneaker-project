@@ -124,17 +124,22 @@ a {
 
 .funnysneakers {
   margin-bottom: 0;
-  padding-left: 30px;
+  padding-left: 70px;
+  font-size: 20px;
+
 }
 
 .price {
-  padding-left: 60px;
+  padding-left: 120px;
+
+  padding-bottom: 20px;
 }
 
 .springsummer {
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 25px;
+  padding-left: 55px;
+  font-size: 16px;
 }
 
 
