@@ -63,7 +63,7 @@ a {
 .section1 {
   display:flex;
   justify-content: space-between;
-  background-color: orangered;
+  background-image: linear-gradient(90deg, #ee2572 0%,  #f40000 100%);
 }
 
 .section2 {
@@ -108,7 +108,7 @@ a {
 .threeshoes {
   display:flex;
   justify-content: space-around;
-  background-color: orangered;
+  background-image: linear-gradient(90deg, #ee2572 0%,  #f40000 100%);
   height: 300px;
 
 }
