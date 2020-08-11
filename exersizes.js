@@ -2,23 +2,20 @@
 // The below function does not work. The variable twoPlusTwo gets set to
 // undefined. Refactor the function to make it work.
 
-function addNumbers(numberA, numberB) {
-  return 2 + 2;
-console.log(numberA + numberB);
-}
-
-var twoPlusTwo = addNumbers(2, 2)
-console.log("exersizeone",twoPlusTwo) // 4
+ // 4
 
 
 
 // Exercise 2
 // Write a function called yell that logs out an uppercase version of a string.
 
-function yell(number) {
-  return number * number;
-  console.log(yell.toUpperCase)
+function yell() {
+  var str = "My Name Is Josh!";
+  var res = str.toUpperCase();
+console.log(MY NAME IS JOSH!);
 }
+
+
 
 
 
