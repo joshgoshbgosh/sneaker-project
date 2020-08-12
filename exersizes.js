@@ -4,15 +4,21 @@
 
  // 4
 
+ function addNumbers(numberA, numberB) {
+   return 2 + 2;
+ console.log(numberA + numberB);
+ }
 
+ var twoPlusTwo = addNumbers(2, 2)
+ console.log("exersizeone",twoPlusTwo)
 
 // Exercise 2
 // Write a function called yell that logs out an uppercase version of a string.
 
-function yell() {
+function yell(X) {
   var str = "My Name Is Josh!";
   var res = str.toUpperCase();
-console.log(MY NAME IS JOSH!);
+ yell("My Name Is Josh!)"
 }
 
 
