@@ -13,7 +13,5 @@ button1.onclick=function(){
 
 amount = amount +1;
 cart1.innerHTML = amount;
-
 }
 }
- 
